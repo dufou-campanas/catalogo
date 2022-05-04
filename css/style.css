@@ -98,11 +98,11 @@ top: 64%;
 }
 .carousel-indicators li {
   background-color: rgba(0,0,0,0);
-  border: 1px solid #BC2A87;
+  border: 1px solid #E11111;
   border-radius: 0;
 }
 .carousel-indicators .active {
-  background-color: #BC2A87;
+  background-color: #E11111;
 }
 .caption h2{
 color: #FFFFFF;
