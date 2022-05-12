@@ -1019,7 +1019,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #BC2A87;
+	color: #E11111;
 	left: 0px;
 	top: 3px;
 }
@@ -1385,7 +1385,7 @@ transition: all .3s;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #BC2A87;
+    background: #E11111;
 }
 
 .footer_bottom {
@@ -1521,10 +1521,10 @@ transition: all .3s;
 }
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
-    background: #BC2A87;
+    background: #E11111;
     color: #FEE16F;
     text-decoration: none;
-    border: #BC2A87 solid 1px;
+    border: #E11111 solid 1px;
 }
 
 .section-title h2 {
